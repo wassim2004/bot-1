@@ -8,7 +8,7 @@ function clean(text) {
         return text;
 }
 
-const prefix = "1";
+const prefix = "P-";
 const token = "NTI3MjA2ODEyODMxNzExMjMz.XLG56w.h87XOsyuU47kDmuvaBGH-LbKE70";
 
 client.on("ready", () => {
